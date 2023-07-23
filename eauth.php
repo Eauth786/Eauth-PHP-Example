@@ -3,7 +3,7 @@ session_start();
 define("ApplicationKey", "");
 define("AccountKey", "");
 
-define("e_url", "https://eauth.gq/api/");
+define("e_url", "https://eauth.us.to/api/");
 $Logged = null;
 class eauth
 {
